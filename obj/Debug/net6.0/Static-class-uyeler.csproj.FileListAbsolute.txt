@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\bin\Debug\net6.0\Static-class-uyeler.exe
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\bin\Debug\net6.0\Static-class-uyeler.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\bin\Debug\net6.0\Static-class-uyeler.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\bin\Debug\net6.0\Static-class-uyeler.dll
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\bin\Debug\net6.0\Static-class-uyeler.pdb
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.dll
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\refint\Static-class-uyeler.dll
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.pdb
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\Static-class-uyeler.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Static-class-uyeler\obj\Debug\net6.0\ref\Static-class-uyeler.dll
